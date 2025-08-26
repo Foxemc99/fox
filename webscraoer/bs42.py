@@ -1,3 +1,4 @@
+#هذا المقطع البرمجي يجلب معلومات من الانترنت
 import requests
 from bs4 import BeautifulSoup
 

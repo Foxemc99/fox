@@ -1,3 +1,4 @@
+#هذا المقطغ البرمجي لمنتج من امازون كما هو مبين
 import requests
 from bs4 import BeautifulSoup
 
